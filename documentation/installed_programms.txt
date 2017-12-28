@@ -1,0 +1,3 @@
+motion
+	execute the program: sudo motion
+	open port: ip:8081
